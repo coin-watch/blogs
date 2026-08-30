@@ -1,5 +1,7 @@
 # FED Chair Kevin Warsh Builds the Case for a Potential Rate Hike
 
+<div align="justify">
+
 ![FED Chair Kevin Warsh](https://raw.githubusercontent.com/coin-watch/blogs/refs/heads/main/photos/HQ0pmSUaMAQPlNx.jpeg)
 
 FED Chair Kevin Warsh delivered a hawkish message at Jackson Hole, presenting a stance on inflation that was significantly firmer than in the July meeting. However, he did not explicitly state or commit to whether the FED will actually raise interest rates in September.
@@ -33,3 +35,5 @@ This development could factor into the FED’s September decision: if consumer s
 Following the FED Chair's remarks, the bond market reacted promptly, interpreting the speech as a sign of higher odds for continued rate hikes. Yields on two-year US Treasury notes - a benchmark especially sensitive to FED policy expectations - surged. 
 
 While a September rate hike remains unconfirmed, it has now become a high-probability scenario that market participants must factor in. CME data indicates that markets are pricing in a nearly 60% chance of a rate hike in September, while prediction markets such as Polymarket and Kalshi show odds just above 50%, still leaning slightly toward further monetary tightening.
+
+</div>
