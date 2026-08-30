@@ -1,5 +1,7 @@
 # FED Chair Kevin Warsh Builds the Case for a Potential Rate Hike
 
+![FED Chair Kevin Warsh](photos/HQ0pmSUaMAQPlNx.jpeg)
+
 FED Chair Kevin Warsh delivered a hawkish message at Jackson Hole, presenting a stance on inflation that was significantly firmer than in the July meeting. However, he did not explicitly state or commit to whether the FED will actually raise interest rates in September.
 
 ## Stance on Inflation and Financial Conditions
