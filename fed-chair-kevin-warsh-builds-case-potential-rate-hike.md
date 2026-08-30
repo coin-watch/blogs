@@ -20,7 +20,7 @@ Furthermore, he emphasized that short-term interest rates remain the FED's prima
 
 ## Economic Context: US Consumer Spending Slows Down
 
-Conversely, July personal spending data released by the US Department of Commerce showed a modest increase of 0.2% month-over-month - down from 0.3% in June and slightly above market expectations of 0.1%. 
+Conversely, July personal spending data released by the US Department of Commerce showed a modest increase of 0.2% month-over-month. Down from 0.3% in June and slightly above market expectations of 0.1%. 
 
 This trend reflects American consumers tightening their belts amid prolonged high interest rates and persistent inflation. Since personal consumption accounts for roughly 70% of US GDP, this deceleration serves as a key signal that the world's largest economy is gradually cooling. 
 
