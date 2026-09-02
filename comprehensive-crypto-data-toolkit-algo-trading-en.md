@@ -1,7 +1,5 @@
 # The Comprehensive Data Toolkit for Algorithmic Trading
 
-![Algorithmic Trading Toolkit](https://raw.githubusercontent.com/coin-watch/blogs/refs/heads/main/photos/HQ0pmSUaMAQPlNx.jpeg)
-
 In the fast-paced world of quantitative finance, particularly within the volatile cryptocurrency market, having access to low latency crypto data feeds and robust analysis tools is essential for executing successful algorithmic trading strategies. Modern quantitative analysts and developers require a highly reliable infrastructure to stay ahead of market movements. 
 
 While platforms like [TradingView](https://www.tradingview.com) and [CoinMarketCap](https://coinmarketcap.com) have long established their solid positions as monumental tools for visual analysis and market research, the recent emergence of [Coinwatch](https://coinwat.ch)—a high-performance crypto market data API platform—brings a critical missing piece to the puzzle. Together, these tools form an excellent data backbone for developers, quants, and algorithmic traders looking to build a complete crypto data pipeline.
