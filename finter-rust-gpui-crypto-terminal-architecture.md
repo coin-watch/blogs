@@ -250,6 +250,7 @@ By combining Rust's memory efficiency with GPUI's modern GPU-accelerated renderi
 Explore the codebase, star the repository, or contribute to the next milestone:
 - **GitHub Repository:** [https://github.com/coin-watch/FinTer](https://github.com/coin-watch/FinTer)
 - **Live Market Web App:** [https://coinwat.ch](https://coinwat.ch)
+- **Latest Engineering Update:** [Securing Crypto Exchange API Keys at Rest: AES-256-GCM, OS Keyrings, and In-Chat Charting in FinTer](https://coinwat.ch/blog/finter-crypto-terminal-api-security-aes-256-gcm-rust)
 - **Related Market Analysis:** Read our technical guides on [Order Flow Imbalance (OFI) in Crypto Microstructure](https://coinwat.ch/blog/order-flow-imbalance-crypto-microstructure-algorithmic-trading), [Comprehensive Crypto Data Toolkit for Algo Trading](https://coinwat.ch/blog/comprehensive-crypto-data-toolkit-algo-trading-en), and [Ethereum CEX-DEX Arbitrage Searcher Concentration](https://coinwat.ch/blog/ethereum-cex-dex-arbitrage-searcher-concentration).
 
 ---
