@@ -491,6 +491,7 @@ Explore the codebase, contribute new exchange connectors, or build your own cust
 - **GitHub Repository:** [https://github.com/coin-watch/FinTer](https://github.com/coin-watch/FinTer)
 - **Live Crypto Market Analytics:** [https://coinwat.ch](https://coinwat.ch)
 - **Architecture Deep Dive:** [FinTer Architecture: Building a High-Performance, Local-First Crypto Market Terminal in Rust and GPUI](https://coinwat.ch/blog/finter-rust-gpui-crypto-terminal-architecture)
+- **Local-First Storage & Sync:** [Local-First Dashboards in FinTer: File-Backed Layouts, Last-Write-Wins Sync, and Agent-Controlled Pane Grids](https://coinwat.ch/blog/finter-local-first-dashboards-file-sync-agent-pane-control)
 - **Algorithmic Autonomy & Risk Controls:** [Autonomous Trading vs Algorithmic Trading: Definitions, Autonomy Levels, and Risk Controls](https://coinwat.ch/blog/ai-agents-autonomous-crypto-trading)
 - **Market Microstructure & Order Flow:** [Order Flow Imbalance (OFI) in Crypto Microstructure](https://coinwat.ch/blog/order-flow-imbalance-crypto-microstructure-algorithmic-trading)
 
