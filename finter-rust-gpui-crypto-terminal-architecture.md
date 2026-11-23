@@ -252,6 +252,7 @@ Explore the codebase, star the repository, or contribute to the next milestone:
 - **Live Market Web App:** [https://coinwat.ch](https://coinwat.ch)
 - **Latest Engineering Update:** [Securing Crypto Exchange API Keys at Rest: AES-256-GCM, OS Keyrings, and In-Chat Charting in FinTer](https://coinwat.ch/blog/finter-crypto-terminal-api-security-aes-256-gcm-rust)
 - **Local-First Storage Deep Dive:** [Local-First Dashboards in FinTer: File-Backed Layouts, Last-Write-Wins Sync, and Agent-Controlled Pane Grids](https://coinwat.ch/blog/finter-local-first-dashboards-file-sync-agent-pane-control)
+- **Order-Flow Chart Engine:** [Building an Order-Flow Chart in Rust: Footprint, Volume Profile, CVD, and a Liquidity Heatmap](https://coinwat.ch/blog/finter-order-flow-chart-footprint-volume-profile-cvd)
 - **Related Market Analysis:** Read our technical guides on [Order Flow Imbalance (OFI) in Crypto Microstructure](https://coinwat.ch/blog/order-flow-imbalance-crypto-microstructure-algorithmic-trading), [Comprehensive Crypto Data Toolkit for Algo Trading](https://coinwat.ch/blog/comprehensive-crypto-data-toolkit-algo-trading-en), and [Ethereum CEX-DEX Arbitrage Searcher Concentration](https://coinwat.ch/blog/ethereum-cex-dex-arbitrage-searcher-concentration).
 
 ---
